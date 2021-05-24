@@ -27,6 +27,6 @@ curl -d  '{ "points": 5000 }' -H 'Content-Type: application/json' localhost:8080
 GET /pointsBalance
 
 curl -d  localhost:8080/pointsBalance
-"Roadmap"
+
 
 
